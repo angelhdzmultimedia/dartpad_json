@@ -1,4 +1,6 @@
-[
+{
+ "result": {
+  "list": [
 {"title": "Song 1", 
  "link": "https://raw.githubusercontent.com/angelhdz/dartpad_json/master/sound_001.mp3",
  "subtitle": "",
@@ -54,3 +56,6 @@
    
 }
 ]
+
+ }
+}
