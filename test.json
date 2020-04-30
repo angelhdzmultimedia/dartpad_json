@@ -1,8 +1,56 @@
 [
-{"name": "Song 1", "url": "https://raw.githubusercontent.com/angelhdz/dartpad_json/master/sound_001.mp3"},
-{"name": "Song 2", "url": "https://raw.githubusercontent.com/angelhdz/dartpad_json/master/sound_002.mp3"},
-{"name": "Song 3", "url": "https://raw.githubusercontent.com/angelhdz/dartpad_json/master/sound_003.mp3"},
-{"name": "Song 4", "url": "https://raw.githubusercontent.com/angelhdz/dartpad_json/master/sound_004.mp3"},
-{"name": "Song 5", "url": "https://raw.githubusercontent.com/angelhdz/dartpad_json/master/sound_005.mp3"},
-{"name": "Song 6", "url": "https://raw.githubusercontent.com/angelhdz/dartpad_json/master/sound_006.mp3"}
+{"title": "Song 1", 
+ "link": "https://raw.githubusercontent.com/angelhdz/dartpad_json/master/sound_001.mp3",
+ "subtitle": "",
+  "image": "",
+   "created": "",
+    "modified": "",
+    "description": "aasdwqe"
+   
+},
+{"title": "Song 1", 
+ "link": "https://raw.githubusercontent.com/angelhdz/dartpad_json/master/sound_002.mp3",
+ "subtitle": "",
+  "image": "",
+   "created": "",
+    "modified": "",
+    "description": "aasdwqe"
+   
+},
+  {"title": "Song 1", 
+ "link": "https://raw.githubusercontent.com/angelhdz/dartpad_json/master/sound_003.mp3",
+ "subtitle": "",
+  "image": "",
+   "created": "",
+    "modified": "",
+    "description": "aasdwqe"
+   
+},
+  {"title": "Song 1", 
+ "link": "https://raw.githubusercontent.com/angelhdz/dartpad_json/master/sound_004.mp3",
+ "subtitle": "",
+  "image": "",
+   "created": "",
+    "modified": "",
+    "description": "aasdwqe"
+   
+},
+  {"title": "Song 1", 
+ "link": "https://raw.githubusercontent.com/angelhdz/dartpad_json/master/sound_005.mp3",
+ "subtitle": "",
+  "image": "",
+   "created": "",
+    "modified": "",
+    "description": "aasdwqe"
+   
+},
+  {"title": "Song 1", 
+ "link": "https://raw.githubusercontent.com/angelhdz/dartpad_json/master/sound_006.mp3",
+ "subtitle": "",
+  "image": "",
+   "created": "",
+    "modified": "",
+    "description": "aasdwqe"
+   
+},
 ]
