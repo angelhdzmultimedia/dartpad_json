@@ -1,10 +1,10 @@
 {
   "usuarios": [
-  {"nombre": "Nombre 1", "email1": "email1@dart.com"},
-  {"nombre": "Nombre 2", "email2": "email2@dart.com"},
-  {"nombre": "Nombre 3", "email3": "email3@dart.com"},
-  {"nombre": "Nombre 4", "email4": "email4@dart.com"},
-  {"nombre": "Nombre 5", "email5": "email5@dart.com"},
-  {"nombre": "Nombre 6", "email6": "email6@dart.com"}
+  {"nombre": "Nombre 1", "email": "email1@dart.com"},
+  {"nombre": "Nombre 2", "email": "email2@dart.com"},
+  {"nombre": "Nombre 3", "email": "email3@dart.com"},
+  {"nombre": "Nombre 4", "email": "email4@dart.com"},
+  {"nombre": "Nombre 5", "email": "email5@dart.com"},
+  {"nombre": "Nombre 6", "email": "email6@dart.com"}
   ]
 }
